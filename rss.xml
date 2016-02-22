@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Design. Print. Mail. Lots of love. ]]></title>
         <description><![CDATA[Design. Print. Mail. Lots of love. ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/design-print-mail-lots-of-love/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 14:12:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 14:12:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/design-print-mail-lots-of-love/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Print is unique... ]]></title>
+            <description><![CDATA[<article><h1>Print is unique... </h1><p>Whether it's detailed infographics that explain complex industry trends or long-form journalism that describes tricky financial models, print has a unique ability to get across the most difficult information. What is it about print that allows us to convey highly complex information simply and concisely?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00dddcfb662a42abd08cbfb0e9371fab023144b6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/design-print-mail-lots-of-love/print-is-unique/index.html</link>
+            <guid isPermaLink="false">12b354e2-18b3-42f3-b9e2-b19f1ea9b480</guid>
+            <pubDate>Mon, 22 Feb 2016 14:12:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paper? Bad for he environment? ]]></title>
             <description><![CDATA[<article><h1>Paper? Bad for he environment? </h1><p>The Fact: Paper is one of the few truly sustainable products. Paper is based on wood, a natural and renewable material, and as young trees grow they absorb CO2 from the atmosphere. Wood-based products continue to store carbon throughout their lifetime.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/236cb82324e8558ab3e4fd7ea96b74419b5d36af.jpg"></article>]]></description>
