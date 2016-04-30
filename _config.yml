@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.4336918
 color:
   saturation: 0.218638
   brandStrength: 0.6559139
@@ -21,6 +22,5 @@ color:
     - '#F202BD'
     - '#6E3030'
   rhythmicContrast: 0.4139785
-typography_spectrum: 0.4336918
-layout_spectrum: 0.1469534
+layout_spectrum: 0
 name: 'Design. Print. Mail. Lots of love. '
